@@ -29,11 +29,11 @@ I enjoy solving real-world problems with code, launching automated content workf
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**anime_project**](https://github.com/zxc228/anime_project) | Automation pipeline for cutting anime scenes for Shorts | Python, FFmpeg, Whisper |
-| [**marvel-app**](https://github.com/zxc228/marvel-app) | Android app using Marvel API, MVVM, filtering & favorites | JavaScript, Android, MVVM |
-| [**digitalization_of_delivery_notes**](https://github.com/zxc228/digitalization_of_delivery_notes) | REST API for digitizing delivery notes (PDF + signature + IPFS) | Node.js, Express, MongoDB |
-| [**task-tracker**](https://github.com/zxc228/task-tracker) | Fullstack task tracker with custom backend API | TypeScript, React, Express |
-| [**link-shortener**](https://github.com/zxc228/link-shortener) | Simple and fast link shortener with analytics | TypeScript, Node.js, Express |
+| [**anime_project**](https://github.com/zxc228/anime_project) | Flask web app for discovering random anime info, using PostgreSQL and styled with Bootstrap. Includes DB migrations and environment config. | Python, Flask, SQLAlchemy, PostgreSQL |
+| [**marvel-app**](https://github.com/zxc228/marvel-app) | Pure frontend app consuming Marvel API, allows users to browse and filter superheroes. Built with clean architecture. | JavaScript, HTML/CSS |
+| [**task-tracker**](https://github.com/zxc228/task-tracker) | Full-stack task manager with JWT-auth FastAPI backend and modern Next.js frontend. Dockerized, SQLite, secure and modular. | FastAPI, Next.js, Docker, SQLite |
+| [**link-shortener**](https://github.com/zxc228/link-shortener) | Fast and elegant URL shortener with stats and full-stack architecture. Powered by FastAPI and animated with Framer Motion on the frontend. | FastAPI, Next.js, Tailwind, SQLite |
+| [**digitalization_of_delivery_notes**](https://github.com/zxc228/digitalization_of_delivery_notes) | Student project: REST API for digitizing delivery notes with JWT auth, IPFS-based signature/PDF storage, Mailhog email verification, and Swagger docs. | Node.js, Express, PostgreSQL, IPFS, Swagger |
 
 ---
 
