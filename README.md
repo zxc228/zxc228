@@ -50,4 +50,5 @@ I enjoy solving real-world problems with code, launching automated content workf
 
 - 🔗 LinkedIn: [linkedin.com/in/ilyaistomin](https://linkedin.com/in/ilyaistomin)
 - 📧 Email: ilyaistom17@gmail.com
+- Telegram https://t.me/diabobus
 - 📍 Based in Madrid, Spain | Open to remote work
