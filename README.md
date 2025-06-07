@@ -15,7 +15,7 @@ I enjoy solving real-world problems with code, launching automated content workf
 
 ### ⚙️ Tech Stack
 
-- **Languages:** Python (core), JavaScript (React/Next), TypeScript, C++, Go (basic), Bash  
+- **Languages:** Python (core), JavaScript (React/Next), TypeScript, C++ (basic), Go (basic), Bash  
 - **Backend:** FastAPI, Flask, Node.js, aiogram  
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Data / ML / NLP:** Pandas, PyTorch, Whisper, FFmpeg, nltk, Ollama  
