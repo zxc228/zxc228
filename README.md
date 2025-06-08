@@ -40,7 +40,7 @@ I enjoy solving real-world problems with code, launching automated content workf
 ### 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxc228&show_icons=true&theme=github_dark&hide=issues&hide_rank=false" alt="Stats" height="150">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=zxc228&show_icons=true&theme=github_dark&hide=issues&hide_rank=false" alt="Stats" height="150"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxc228&layout=compact&theme=github_dark" alt="Langs" height="150">
 </p>
 
